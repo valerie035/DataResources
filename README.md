@@ -8,3 +8,7 @@ Resources for all things data and data analytics
 [short practice and overview of SQL code](https://www.sql-easy.com)
 ## W3 Schools SQL
 [W3 Schools SQL](https://www.w3schools.com/sql)
+## Data Viz Project
+[DATA Viz Link](https://datavizproject.com/)
+## Domo Visualisations
+[Domo Best Practices](https://domo-support.domo.com/s/article/360042935294?language=en_US)
