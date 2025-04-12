@@ -21,7 +21,10 @@ Game Form Practice (doesn't teach you how, but lets you apply)
 Practice and Learning
 [SQL Practice](https://www.sql-practice.com/)
 [Solo Learn - works good on the phone](https://www.sololearn.com/en/)
-
-
+[Maven Analytics](https://mavenanalytics.io/)
+[SQL Bolt](https://sqlbolt.com/)
+[Code Wars](https://www.codewars.com/)
 [Data Camp - more structured full fledged course](https://www.datacamp.com/)
+
 ## Organizations 
+[Women In Big Data](https://www.womeninbigdata.org/)
