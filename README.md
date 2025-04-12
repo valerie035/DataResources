@@ -9,22 +9,25 @@ Resources for all things data and data analytics
 ## W3 Schools SQL
 [W3 Schools SQL](https://www.w3schools.com/sql)
 ## Data Viz Project
-[DATA Viz Link](https://datavizproject.com/)
-## Domo Visualisations
-[Domo Best Practices](https://domo-support.domo.com/s/article/360042935294?language=en_US)
+- [Data Viz Link](https://datavizproject.com/)
+
+## Domo Visualizations
+- [Domo Best Practices](https://domo-support.domo.com/s/article/360042935294?language=en_US)
 
 ## Practice Resources
-Game Form Practice (doesn't teach you how, but lets you apply) 
-[SQL PD] (https://sqlpd.com/)
-[SQL Island] (https://sql-island.informatik.uni-kl.de/)
-[SQL Murder Mystery)(https://mystery.knightlab.com/)
-Practice and Learning
-[SQL Practice](https://www.sql-practice.com/)
-[Solo Learn - works good on the phone](https://www.sololearn.com/en/)
-[Maven Analytics](https://mavenanalytics.io/)
-[SQL Bolt](https://sqlbolt.com/)
-[Code Wars](https://www.codewars.com/)
-[Data Camp - more structured full fledged course](https://www.datacamp.com/)
 
-## Organizations 
-[Women In Big Data](https://www.womeninbigdata.org/)
+**Game-Form Practice** (These let you apply what you know):
+- [SQL PD](https://sqlpd.com/)
+- [SQL Island](https://sql-island.informatik.uni-kl.de/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+
+**Practice and Learning Platforms**:
+- [SQL Practice](https://www.sql-practice.com/)
+- [SoloLearn — great on mobile](https://www.sololearn.com/en/)
+- [Maven Analytics](https://mavenanalytics.io/)
+- [SQL Bolt](https://sqlbolt.com/)
+- [Code Wars](https://www.codewars.com/)
+- [DataCamp — structured, full courses](https://www.datacamp.com/)
+
+## Organizations
+- [Women In Big Data](
