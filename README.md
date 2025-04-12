@@ -30,4 +30,4 @@ Resources for all things data and data analytics
 - [DataCamp — structured, full courses](https://www.datacamp.com/)
 
 ## Organizations
-- [Women In Big Data](
+- [Women In Big Data](https://www.womeninbigdata.org/)
